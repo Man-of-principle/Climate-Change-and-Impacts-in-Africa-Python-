@@ -38,3 +38,6 @@ These sheets contain the amount of CO2 by country and the industry responsible.
 | `Name`            | The name of the country |
 | `Y_1970 - Y_2021` | The amount of CO2 (kt) from 1970 - 2021 |
 | `ipcc_code_2006_for_standard_report_name` | The industry responsible for generating CO2 |
+
+
+**Click to access the Python Notebook** -> https://github.com/Man-of-principle/Climate-Change-and-Impacts-in-Africa-Python-/blob/main/Climate%20Change%20Notebook.ipynb
