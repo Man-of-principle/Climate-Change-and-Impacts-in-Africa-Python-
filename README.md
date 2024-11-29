@@ -1,5 +1,4 @@
 # Climate Change and Impacts in Africa
-This is guided project organised by Ingresive for Good Via DataCamp. 
 
 # Intoduction 
 
